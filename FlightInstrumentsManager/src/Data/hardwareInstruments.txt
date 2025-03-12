@@ -1,0 +1,3 @@
+HardwareInstrument,0001,true,altitudine
+HardwareInstrument,0002,true,directie
+HardwareInstrument,1234,false,altitudine
